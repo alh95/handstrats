@@ -1,0 +1,7 @@
+Possible cards in deck
+Optimal strategy based on hand
+Scope for multiple decks, hands etc.
+Expected return based on bet size
+Automatic card reading (suits don't matter)
+
+What language? R or python viable - new language? 
